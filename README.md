@@ -41,9 +41,10 @@ Please submit bugs and feature requests using
 [Github's issue system](https://github.com/wilson-eft/wilson/issues).
 
 
-## Contributors
+## Maintainer and Contributors
 
-In alphabetical order:
+The wilson maintainer is Jason Aebischer.
+Contributors to Wilson are, in alphabetical order:
 
 - Jason Aebischer
 - Danny van Dyk
