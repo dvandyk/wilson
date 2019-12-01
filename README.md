@@ -30,7 +30,7 @@ A brief user manual can be found in the paper cited below. More information can 
 
 - The SMEFT RGEs are based on [arXiv:1308.2627](https://arxiv.org/abs/1308.2627), [arXiv:1310.4838](https://arxiv.org/abs/1310.4838), and [arXiv:1312.2014](https://arxiv.org/abs/1312.2014).
 - The SMEFT RGE implementation was ported from the [DSixTools](https://dsixtools.github.io/) Mathematica package ([arXiv:1704.04504](https://arxiv.org/abs/1704.04504)).
-- The SMEFT to WET matching is based on [arXiv:1709.04486](https://arxiv.org/abs/1709.04486).
+- The SMEFT to WET matching is based on [arXiv:1908.05295](), which permits to set the matching order to either tree-level or one-loop order. An older code for the SMEFT to WET matching based on [arXiv:1709.04486](https://arxiv.org/abs/1709.04486) is retained for testing purposes.
 - The QCD and QED running is based on [arXiv:1704.06639](https://arxiv.org/abs/1704.06639) and [arXiv:1711.05270](https://arxiv.org/abs/1711.05270).
 
 
