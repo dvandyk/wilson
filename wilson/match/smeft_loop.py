@@ -41,6 +41,10 @@ def _match_all_array(_C, par, scale):
     g2bar = g2b
     g3bar = sqrt(4*pi*par['alpha_s'])
 
+    if 'renormalize@NP' in par:
+        scale = par['Lambda_NP']
+
+
     # DEFINE DAGGERED WCs
     for _f in 'ude':
         for _b in ['B', 'G', 'phi', 'W' ]:
